@@ -1,17 +1,39 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Integrated Masters in Informatics and Computing Engineering
+  company: University of Porto
+  from: September 2011
+  to: January 2018
+  description: Conceived as requiring a full five years integrated cycle of education,
+               training and apprenticeship. This integrated cycle matches the implementation of the 1st and 2nd cycles of the Bologna Process and
+               immediately confers the Master of Science academic degree.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Game Developer
+  company: Caterpillar Math
+  technology: Unity
+  from: May 2017
+  to: October 2017
+  description: Developed game prototypes to be tested as proof of concept to potential customers and/or investors. 
+               Solo development of several prototypes while attending CMU Portugal InRes program for 
+               startups.
+
+- title: Game Developer
+  company: Fabamaq
+  technology: C++, JavaScript
+  from: April 2018
+  to: November 2020
+  description: Developed bingo games for land based markets like Mexico, Spain and Philippines. 
+               * Codebase maintenance and game interaction with several modules as hardware, cash systems, 
+               led strips and servers. 
+               * Development of new features, including adapting prototypes for production environments. 
+               * Critical bug fixing. 
+
+- title: Game Developer
+  company: Stasism
+  technology: Unity, C#, MySQL
+  from: December 2020
+  to: March 2025
+  description: Designed and developed computer games played with exercises on a Nintendo Wii Balance Board or in 
+              front of a webcam.
+               * Fully developed two games with distinct sets of controls available with total creative freedom. 
+               * Created game add-on to use hand movement and gestures in webcam as mouse controls. 
+               * Developed Unity extensions to automate development tasks. 
+               * Consulted in other games regarding accessibility. 
