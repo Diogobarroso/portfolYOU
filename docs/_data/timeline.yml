@@ -18,8 +18,7 @@
   to: November 2020
   description: Developed bingo games for land based markets like Mexico, Spain and Philippines. 
   bulletPoints:
-               - Codebase maintenance and game interaction with several modules as hardware, cash systems, 
-               led strips and servers. 
+               - Codebase maintenance and game interaction with several modules as hardware, cash systems, led strips and servers. 
                - Development of new features, including adapting prototypes for production environments. 
                - Critical bug fixing. 
 
@@ -28,14 +27,10 @@
   technology: Unity
   from: May 2017
   to: October 2017
-  description: Developed game prototypes to be tested as proof of concept to potential customers and/or investors. 
-               Solo development of several prototypes while attending CMU Portugal InRes program for 
-               startups.
+  description: Developed game prototypes to be tested as proof of concept to potential customers and/or investors. Solo development of several prototypes while attending CMU Portugal InRes program for startups.
 
 - title: Integrated Masters in Informatics and Computing Engineering
   company: University of Porto
   from: September 2011
   to: January 2018
-  description: Conceived as requiring a full five years integrated cycle of education,
-               training and apprenticeship. This integrated cycle matches the implementation of the 1st and 2nd cycles of the Bologna Process and
-               immediately confers the Master of Science academic degree.
+  description: Conceived as requiring a full five years integrated cycle of education, training and apprenticeship. This integrated cycle matches the implementation of the 1st and 2nd cycles of the Bologna Process and immediately confers the Master of Science academic degree.
