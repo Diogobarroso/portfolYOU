@@ -5,10 +5,11 @@
   to: March 2025
   description: Designed and developed computer games played with exercises on a Nintendo Wii Balance Board or in 
               front of a webcam.
-               * Fully developed two games with distinct sets of controls available with total creative freedom. 
-               * Created game add-on to use hand movement and gestures in webcam as mouse controls. 
-               * Developed Unity extensions to automate development tasks. 
-               * Consulted in other games regarding accessibility. 
+  bulletPoints:
+               - Fully developed two games with distinct sets of controls available with total creative freedom. 
+               - Created game add-on to use hand movement and gestures in webcam as mouse controls. 
+               - Developed Unity extensions to automate development tasks. 
+               - Consulted in other games regarding accessibility. 
                
 - title: Game Developer
   company: Fabamaq
@@ -16,10 +17,11 @@
   from: April 2018
   to: November 2020
   description: Developed bingo games for land based markets like Mexico, Spain and Philippines. 
-               * Codebase maintenance and game interaction with several modules as hardware, cash systems, 
+  bulletPoints:
+               - Codebase maintenance and game interaction with several modules as hardware, cash systems, 
                led strips and servers. 
-               * Development of new features, including adapting prototypes for production environments. 
-               * Critical bug fixing. 
+               - Development of new features, including adapting prototypes for production environments. 
+               - Critical bug fixing. 
 
 - title: Game Developer
   company: Caterpillar Math
